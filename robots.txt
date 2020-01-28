@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iewuichie.wrenegadekennels.com/sitemap.xml
